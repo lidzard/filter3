@@ -1,0 +1,18 @@
+body
+{
+    background-image: url("5b0d0810b5d74f895d015fd15e4339a8.jpeg");
+}
+h1
+{
+    color:black;
+    background-color: aliceblue;
+    width: 15%;
+    border-color: rgb(255, 255, 255);
+    border-style: initial;
+    border-radius: 5px;
+    border-width: 4px;
+}
+canvas
+{
+    background-color: white;
+}
